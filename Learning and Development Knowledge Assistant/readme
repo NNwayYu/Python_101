@@ -1,0 +1,25 @@
+
+# This application allows users to ask questions about an internal policy document through a web-based interface. The program reads the policy PDF, breaks it into searchable sections and uses the Ollama AI model  to find the most relevant content. Based on the retrieved information, it generates a concise answer and displays the supporting sources, helping users quickly understand policy details without manually searching the document.
+
+# Environment Setup Guide
+
+# 1. Create a virtual environment
+# python -m venv venv
+
+# 2. Activate the virtual environment
+# .\venv\Scripts\Activate
+
+# 3. Install require library
+# python -m pip install -r requirements.txt 
+
+# 4. Install ollama model
+# https://ollama.com/download/windows
+# ollama pull llama3.1:8b
+# ollama serve or run ollama appliction in window app
+
+# 5. Start the app: python -m streamlit run app.py
+
+
+
+
+
