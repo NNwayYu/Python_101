@@ -1,0 +1,16 @@
+#mergePDF: This script merges multiple PDF files into a single PDF document. It takes a list of input PDF files, combines them in the specified order and saves the result as one merged PDF file.
+
+# Environment Setup Guide
+
+# 1. Create a virtual environment
+# python -m venv venv
+
+# 2. Activate the virtual environment
+# .\venv\Scripts\Activate
+
+# 3. Install require library
+# python -m pip install -r requirements.txt : use this command if you use the window power shell
+# python -m pip install -r requirements.txt : use this command if you use the IDE terminal like PyCharm or VS code
+
+
+# 4. Start the script: python main.py
