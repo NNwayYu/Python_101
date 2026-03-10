@@ -1,0 +1,24 @@
+# Desktop app (Tkinter GUI):This app provides an AI-generated summary that explains current weather conditions.
+
+# Environment Setup Guide
+
+# 1. Create a virtual environment
+# python -m venv venv
+
+# 2. Activate the virtual environment
+# .\venv\Scripts\Activate
+
+# 3. Install require library
+# python -m pip install -r requirements.txt 
+
+# 4. python gui_app.py
+
+# 5. deactivate 
+# leave the virtual environment and return to normal system Python
+
+=============================================================
+# pip → installs packages [pip is Python package installer]
+
+# -m → ensures correct Python environment [-m is run a module as a script]
+
+# requirements.txt → list of dependencies
