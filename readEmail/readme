@@ -1,0 +1,25 @@
+# Email Summarization: This script automatically summarizes selected Outlook emails based on subject keywords and compiles them into a single summary email for quick review.
+
+# Environment Setup Guide
+
+# 1. Create a virtual environment
+# python -m venv venv
+
+# 2. Activate the virtual environment
+# .\venv\Scripts\Activate
+
+# 3. Install require library
+# python -m pip install -r requirements.txt 
+
+# 4. python main.py
+
+# 5. deactivate 
+# leave the virtual environment and return to normal system Python
+
+
+=============================================================
+# pip → installs packages [pip is Python package installer]
+
+# -m → ensures correct Python environment [-m is run a module as a script]
+
+# requirements.txt → list of dependencies
